@@ -18,7 +18,7 @@ Feel free to explore my repositories for more!
 
 ## Connect with Me
 
-- **Instagram:** __.ashong__
+- **Instagram:** **_.ashong_**
 - **Twitter:** XuGaR_2_0_0_6
 - **Email:** ashongabdalla15@gmail.com
 
