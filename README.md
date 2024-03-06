@@ -13,6 +13,8 @@ Here are a few projects I'm proud of:
 
 1. **The Insure Landing Page**
    - Link: https://main-insure-landing-page.netlify.app/
+2. **Building on this one**
+   - Link: https://fre-fashion.vercel.app/
 
 Feel free to explore my repositories for more!
 
