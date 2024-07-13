@@ -4,8 +4,8 @@ Welcome to my GitHub profile! I'm @AshongAbdallah06, a student and an aspiring s
 
 ## Skills
 
-- **Programming Languages:** HTML, CSS, JavaScript, React(Still learning)
-- **Technologies:** Github, Hosting Applications....
+- **Programming Languages:** HTML, CSS, JavaScript, Still learning(React, NodeJs, MongoDB, Express, Java)
+- **Technologies:** Git and Github, 
 
 ## Projects
 
