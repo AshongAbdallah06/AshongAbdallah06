@@ -13,8 +13,13 @@ Here are a few projects I'm proud of:
 
 1. **The Insure Landing Page**
    - Link: https://main-insure-landing-page.netlify.app/
-2. **Building on this one**
+2. **Fre-Fashion**
    - Link: https://fre-fashion.vercel.app/
+3. **MERN WORKOUTS APP**
+   - Link: https://mern-stack-eight-ivory.vercel.app/
+5. **Rock Paper Scissors**
+   - Link: https://rock-paper-scissors-app-nine.vercel.app/
+   - Collaborated with a friend ([Glocks99](https://github.com/Glocks99))
 
 Feel free to explore my repositories for more!
 
