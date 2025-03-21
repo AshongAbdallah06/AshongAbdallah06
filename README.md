@@ -21,7 +21,7 @@ Here are a few projects I'm proud of:
    - Link: https://rock-paper-scissors-typescript-app.vercel.app
    - Collaborated with a friend ([Glocks99](https://github.com/Glocks99))
 6. **Record Attendance**
-   - Link: https://github.com/ashongdev/attendance
+   - Link: https://attendance-two-tawny.vercel.app/
 
 Feel free to explore my repositories for more!
 
